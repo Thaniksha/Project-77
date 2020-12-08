@@ -1,7 +1,15 @@
 body{
-    background color: pink;
+    background : rgb(255, 6, 47);
+    font-size: 22px;
 }
 img{
-    width: 100px;
-    height: 50px;
+    width: 250x;
+    height: 325px;
+}
+
+.line {
+    height: 6px;
+    background-color:#2c08f5;
+    width: 70px;
+    margin: 8px auto;
 }
